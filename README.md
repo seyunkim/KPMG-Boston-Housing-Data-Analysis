@@ -1,3 +1,5 @@
 # KPMG-Boston-Housing-Data-Analysis
+by Zack S. Kim
 
-View the [Notebook](https://goo.gl/KjTUwx)
+An analysis using boston housing data asked by KPMG. 
+View the analysis [here](https://goo.gl/KjTUwx)
